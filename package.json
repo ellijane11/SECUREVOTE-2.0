@@ -1,0 +1,26 @@
+{
+  "name": "securevote-2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellijane11/SECUREVOTE-2.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellijane11/SECUREVOTE-2.0/issues"
+  },
+  "homepage": "https://github.com/ellijane11/SECUREVOTE-2.0#readme",
+  "devDependencies": {
+    "hardhat": "^3.1.0"
+  },
+  "dependencies": {
+    "ethers": "^6.16.0"
+  }
+}
